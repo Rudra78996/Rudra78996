@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rudra Pratap Singh</h1>
-<h3 align="center">Passionate Web Developer | India 🇮🇳</h3>
+<h3 align="center">Passionate Developer | India 🇮🇳</h3>
 
 - 🔭 Currently exploring **React.js** and its ecosystem
 - 🌱 Always eager to learn and grow in the field of web development
