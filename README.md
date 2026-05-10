@@ -1,13 +1,24 @@
+<div align="center">
+
+<pre>
+██████╗ ██╗   ██╗██████╗ ██████╗  █████╗
+██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗
+██████╔╝██║   ██║██║  ██║██████╔╝███████║
+██╔══██╗██║   ██║██║  ██║██╔══██╗██╔══██║
+██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
 <h1 align="center">Hi 👋, I'm Rudra Pratap Singh</h1>
 <h3 align="center">Full Stack Developer | Competitive Programmer | ECE @ IIIT Trichy</h3>
 
 <p align="center">
   🚀 Building scalable backend systems & AI-powered tools  
   <br>
-  🧠 Guardian on LeetCode | 700+ DSA Problems Solved  
+  🧠 Guardian on LeetCode | 1000+ DSA Problems Solved  
   <br>
   💻 Passionate about Systems, Backend Engineering & Developer Tools
 </p>
+</div>
 
 ---
 
